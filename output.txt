@@ -1,0 +1,1 @@
+Fehler: Hauptklasse at.fhj.itm.PointTester konnte nicht gefunden oder geladen werden
